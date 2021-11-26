@@ -1,17 +1,13 @@
-﻿E:\VS2019\主程序\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(YJ.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+﻿D:\VS2019\IDE\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(x64\Release\)包含从另一个项目(YJ.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
   Assembling spoofer.asm...
-  CustomWinApi.cpp
-F:\永劫无间-蓝- - 副本\FrameWork\CustomWinApi.cpp(644,1): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
   dllmain.cpp
-F:\永劫无间-蓝- - 副本\FrameWork\dllmain.cpp(4854,1): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
   imgui_impl_dx11.cpp
-F:\永劫无间-蓝- - 副本\FrameWork\ImGui\D3D11\imgui_impl_dx11.cpp(579,1): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
   imgui_impl_win32.cpp
-F:\永劫无间-蓝- - 副本\FrameWork\ImGui\D3D11\imgui_impl_win32.cpp(280,1): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
   imgui.cpp
-F:\永劫无间-蓝- - 副本\FrameWork\ImGui\imgui.cpp(8044,1): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
   imgui_draw.cpp
-F:\永劫无间-蓝- - 副本\FrameWork\ImGui\imgui_draw.cpp(2885,1): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
   imgui_widgets.cpp
-F:\永劫无间-蓝- - 副本\FrameWork\ImGui\imgui_widgets.cpp(8129,1): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
-  正在生成代码...
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 1920 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  FrameWork.vcxproj -> C:\Users\11241\Desktop\永劫无间-黑\x64\Release\Null.dll
